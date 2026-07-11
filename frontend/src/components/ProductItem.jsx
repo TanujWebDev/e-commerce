@@ -10,7 +10,7 @@ const ProductItem = ({id, image, name, price}) => {
   return (
     <Link className="text-gray-700 cursor-pointer border border-zinc-100 rounded-md overflow-hidden bg-white shadow-sm hover:shadow-md transition-shadow duration-300 flex flex-col" to={`/product/${id}`}>
       <div className="overflow-hidden aspect-square flex items-center justify-center bg-gray-50">
-        <img className="hover:scale-105 transition duration-500 w-full h-full object-cover" src={image[0]} alt="" />
+        <img className="hover:scale-105 transition duration-500 w-full h-full object-cover object-top" src={image[0]} alt="" />
       </div>
       <div className="p-4 flex-1 flex flex-col justify-between">
         <div>
