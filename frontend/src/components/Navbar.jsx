@@ -18,7 +18,7 @@ const Navbar = () => {
   }
 
   return (
-    <div className="flex items-center justify-between py-5 font-medium">
+    <div className="flex items-center justify-between py-5 font-medium border-b border-zinc-100 mb-6">
 
       <Link to='/' className="flex items-center gap-1"><span className="text-2xl font-bold tracking-widest text-black">STYLE<span className="text-gray-500 font-normal">NEST</span></span></Link>
 
