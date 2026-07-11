@@ -17,23 +17,14 @@ const About = () => {
         />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
           <p>
-            Discover a wide range of quality products designed to match your
-            style and needs. Shop the latest trends at affordable prices and
-            enjoy a smooth shopping experience. Get secure payments, fast
-            delivery, and excellent customer support with every order.
+            Welcome to StyleNest, your premium destination for modern fashion and timeless style. We believe that dressing well should be effortless and inspiring. Our collections are carefully curated to bring you the highest quality fabrics, modern silhouettes, and comfortable fits that seamlessly integrate into your daily wardrobe.
           </p>
           <p>
-            Explore our carefully selected collection of products made for
-            quality and comfort. Find everything you need in one place at prices
-            that fit your budget. Shop with confidence and enjoy a simple,
-            secure, and reliable shopping experience.
+            Since our launch, we have been committed to setting new benchmarks in the e-commerce shopping experience. By combining a user-friendly interface with advanced payment systems and reliable shipping partners, we make premium shopping accessible from the comfort of your home.
           </p>
           <b className="text-gray-800">Our Mission</b>
           <p>
-            Stay ahead of the latest trends with products designed to match your
-            lifestyle. Discover exciting deals, trusted quality, and a wide
-            variety of choices. Enjoy fast delivery and excellent service every
-            time you shop with us.
+            Our mission is simple: to inspire confidence through fashion. We strive to provide premium clothing that empowers you to express your unique identity, while maintaining a strong commitment to ethical production, product integrity, and exceptional value.
           </p>
         </div>
       </div>
@@ -45,15 +36,15 @@ const About = () => {
       <div className="flex flex-col md:flex-row text-sm mb-20">
         <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5">
           <b>Quality Assurance:</b>
-          <p className="text-gray-600">Upgrade your style with quality products designed to fit your everyday needs.</p>
+          <p className="text-gray-600">Every garment is crafted from premium materials and undergoes strict quality control checks to guarantee durability, superior comfort, and a perfect fit.</p>
         </div>
         <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5">
           <b>Convenience:</b>
-          <p className="text-gray-600">Discover quality products, amazing deals, and a seamless shopping experience all in one place.</p>
+          <p className="text-gray-600">With an intuitive browsing experience, multiple secure payment gateways, and real-time package tracking, we make your online shopping fast and hassle-free.</p>
         </div>
          <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5">
           <b>Exceptional Customer Service:</b>
-         <p className="text-gray-600">Shop smarter with trusted quality, great prices, and products designed for your everyday lifestyle.</p>
+         <p className="text-gray-600">Our customer success team is available round-the-clock to guide you through sizes, shipping queries, and seamless returns, prioritizing your peace of mind.</p>
         </div>
       </div>
 
